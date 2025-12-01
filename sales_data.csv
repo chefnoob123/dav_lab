@@ -1,9 +1,0 @@
-Date,Region,Salesperson,Product,Units Sold,Price per Unit,Revenue
-2024-01-01,North,Alice,Widget A,10,20,200
-2024-01-02,North,Bob,Widget B,5,30,150
-2024-01-02,South,Charlie,Widget A,15,20,300
-2024-01-03,East,Alice,Widget A,12,20,240
-2024-01-03,North,Bob,Widget A,20,20,400
-2024-01-04,West,David,Widget B,8,30,240
-2024-01-05,South,Charlie,Widget B,10,30,300
-2024-01-05,East,Alice,Widget B,9,30,270
